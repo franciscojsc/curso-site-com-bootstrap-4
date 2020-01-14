@@ -1,0 +1,28 @@
+{
+  "name": "curso-bootstrap-4",
+  "version": "1.0.0",
+  "description": "Curso para criar site com bootstrap 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franciscojsc/curso-site-com-bootstrap-4.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "site"
+  ],
+  "author": "Francisco Chaves",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/franciscojsc/curso-site-com-bootstrap-4/issues"
+  },
+  "homepage": "https://github.com/franciscojsc/curso-site-com-bootstrap-4#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta.2",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.0"
+  }
+}
