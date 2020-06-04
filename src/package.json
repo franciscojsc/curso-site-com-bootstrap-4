@@ -22,6 +22,7 @@
   "homepage": "https://github.com/franciscojsc/curso-site-com-bootstrap-4#readme",
   "dependencies": {
     "bootstrap": "^4.0.0-beta.2",
+    "font-awesome": "^4.7.0",
     "jquery": "^3.4.1",
     "popper.js": "^1.16.0"
   }
