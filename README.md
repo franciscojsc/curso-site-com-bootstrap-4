@@ -16,7 +16,9 @@ Curso criando um site com Bootstrap 4
   <a href="#licença">Licença</a> 
 </h3>
 
-![Captura de tela](screenshot.gif)
+<p align="center">
+  <img src="screenshot.gif" alt="Captura de tela"/>  
+</p>
 
 ## :information_source: Sobre
 
